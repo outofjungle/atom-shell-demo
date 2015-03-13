@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "description": "How to app using atom-shell",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Venkat Venkataraju <venkat.venkataraju@yahoo.com> (https://github.com/outofjungle/)",
+  "license": "MIT"
+}
